@@ -1,0 +1,84 @@
+<resources>
+
+    <!-- Strings for Information about the respective locations-->
+
+    <string name="app_name"><b>SAFAR</b></string>
+    <string name="intro_quote">India is a place where colour is doubly bright. Pinks that scald your eyes, blues you could down in.</string>
+    <string name="taj_mahal">Perhaps India\'s most recognizable building, the Taj Mahal is also the world\'s most famous testimony to the power of love. Named after Mumtaz Mahal, the favorite wife of Emperor Shah Jahan, this most beautiful of mausoleums was begun upon her death in 1631 and took 20,000 workmen until 1648 to complete.The best time to visit is either at dawn or dusk when the atmosphere is brilliantly altered by the change in lighting. If possible, try to catch a view of the Taj Mahal\'s reflection from the far bank of the Yamuna River-it makes for a memorable (and safe) selfie.</string>
+    <string name="golden_temple">Founded in 1577 by Ram Das, Amritsar is an important hub of Sikh history and culture. The main attraction here is Harmandir Sahib, opened in 1604 and still often referred to as the Golden Temple for its beautiful gold decoration. The holiest of India\'s many Sikh shrines (it also attracts many Hindus and people of other faiths), the temple was built in a blend of Hindu and Islamic styles, its lower marble section featuring such flourishes as ornate inlaid floral and animal motifs, while the large golden dome represents a lotus flower, a symbol of purity to Sikhs.</string>
+    <string name="ellora_caves">The famous monumental Ellora Caves were built between the 5th and 10th centuries by Buddhist, Jain, and Hindu monks, and make for an excellent excursion from Mumbai, some 300 kilometers to the west.Now a UNESCO World Heritage Site, this remarkable collection of 34 carved monasteries, chapels, and temples-12 of them Buddhist, 17 Hindu, and five belonging to the Jain faith-were built in close proximity to each other, a reflection of the religious tolerance that existed during this period of Indian history.The Hindu caves are much more complex and were carved from the top down, so scaffolding was not necessary. Of these, the best is the Kailasa Temple, an enormous rock-cut temple representing Mount Kailasa and requiring the removal of 200,000 tons of rock.</string>
+    <string name="red_fort">Built by Shah Jahan in 1648 as the seat of Mughal power-a role it maintained until 1857-the magnificent crescent-shaped Red Fort in New Delhi, named after the stunning red sandstone used in its construction, covers a vast area of more than two square kilometers, all of it surrounded by a large moat. Highlights include its two largest gates: the impressive Lahore Gate (the fort\'s main entrance) and the elaborately decorated Delhi Gate, once used by the emperor for ceremonial processions.</string>
+    <string name="kaziranga_national_park">Located in the northeast state of Assam, Kaziranga is one of the finest wildlife refuges in the world. Home to the world’s largest population of one-horned rhinos, the park is an undisturbed natural area of wet grasslands, swamps, and pools in the Brahmaputra Valley floodplain. On the UNESCO Natural Heritage list for India, Kaziranga is a great conservation success story, having saved the one-horned rhino from the brink of extinction. In 1903, there were only 12 left in the region; now there are about 1,800.</string>
+    <string name="ranthambore_national_park">With the picturesque remains of a crumbling fort, a living temple, and three mirror-like lakes, Ranthambhore is one of the most photographed national parks in India. The former hunting grounds of the Maharaja of Jaipur, Ranthambhore National Park is part of a much larger 502 square mile tiger reserve. It’s home to approximately 45 Bengal tigers, and is within easy travel distance of Delhi. This makes it a very popular place indeed. Still, it’s a good place to spot tigers as well as leopards, caracal, sloth bears, spotted and sambar deer, nilgai and Indian gazelle, golden jackal, striped hyena, pangolin, honey badger and more.</string>
+    <string name="gir_national_park">Did you know that India is the only country on earth with endemic lions, tigers and bears? (Oh my!) Located in the western state of Gujarat, Gir National Park is the only remaining natural habitat of the Asiatic lion. In fact, Gir is the only place in the world where you can see lions roaming wild outside of Africa. Hunting reduced the Asiatic lion population in the region to 20 in 1913, and completely wiped them out in other parts of Asia. However, through the intervention of the Nawabs of Junagarh and the Forest Department, there are now 523 lions in Gir National Park. The park is also home to leopards, sambar deer and the chowsingha – the world’s only four-horned antelope.</string>
+    <string name="sunderbans_national_park">There is no place else on earth like the Sunderbans. Formed by the Ganges River and Brahmaputra River deltas in the Bay of Bengal, the Sunderbans is the world’s largest mangrove forest and one of the most biologically productive of all ecosystems. Encompassing 513 square miles, Sunderbans National Park is situated within a larger UNESCO Biosphere Reserve and the Sunderbans Tiger Reserve. Many rare and endangered wildlife species call this region home, including the estuarine crocodile, Gangetic dolphin, Olive Ridley turtle, king cobra and Bengal tiger. Approximately 100 Bengal tigers live in the watery world of the Sunderbans, having adapted to an almost amphibious life. They can swim long distances and feed on fish, crab, and water Monitor Lizards. It’s a unique landscape that attracts wildlife lovers who are mesmerized by the mangroves, waterways, birds, and rich biodiversity.</string>
+    <string name="delhi">Delhi is famous for many things, but its food scene is high up on the list. Often referred to as the ‘food capital of India’, Delhi is home to India’s best and eclectic street food, so you might as well dig in. In every nook and corner of the capital city, you’ll find a selection of finger-licking street food: chole bhature, golgappe, aloo chaat, dahi bhalla and the list goes on. In addition, there are scores of award-winning restaurants and walled cafes serving everything from Indian to international cuisine – rest assured you’ll be spoiled in terms of choice. Not to mention, the city’s melting pot of cultures is the key to its delicious and varied cuisine.</string>
+    <string name="mumbai">With an impressive collection of traditional and avant-garde restaurants, deli-style cafes, old-school bars and street food stalls, Mumbai is definitely the country’s holy grail for foodies. From dirt-cheap street food to regional cuisine, such as Mangalorean seafood, Goan Vindaloo, South Indian and Konkani Coastal meals, Maharashtrian fare, Mughlai Kebabs, Kerala and Gujarati Thalis, to global cuisine, including Continental, Modern American, Chinese, Italian, Thai, Mediterranean, European and Persian, Mumbai has it all. However, a trip to the City of Dreams is incomplete without trying its trademarks – pav bhaji and vada pav (deep fried potato dumplings in a bun) along with Masala chai. Mumbai’s food scene is vast and rich in terms of diversity and volume, thus catering to all taste 24/7!</string>
+    <string name="hyderabad">The City of Nizams is internationally-famed for its biryani, which is found everywhere from roadside dhabas to luxury restaurants. This quintessential dish shows the strong influence of Mughlai, Andhra and Turkish cuisine. For relishing the best biryani, be sure to stop by the Bawarchi for mutton biryani, Shadab for chicken and mutton biryani, Cafe Bahar for biryani and haleem and Sarvi for chicken drumstick biryani. Other local delicacies to try include keema samosas (minced meat dish), paaya (stew made of trotters or beef), lukhmi (mutton minced savoury dish) and sheer khurma (vermicelli pudding).</string>
+    <string name="udupi">If you want to sample all of South India’s dishes in one place, Udupi is your destination. In fact, the ubiquitous dosa (a pancake made from rice flour and ground pulses) originated in this Konkani town, and just this specialty makes it an unmissable place for food lovers. For an authentic South Indian experience, head to Woodlands or Konark Vegetarian Restaurant.</string>
+    <string name="candolim_beach">Be it fishing, seaside yoga, massages, flourishing markets, party culture or scenic views, the Candolim Beach has it all and to top it the entire beach is in close proximity to a lighthouse and a church making it as perfect as a beach can be.Visit the lighthouse and the church, enjoy fishing, and do shopping at the nearby markets.</string>
+    <string name="puri_beach">Romantic sunrises and spectacular sunsets are some of the best assets of the Puri beach in Odisha. White sands and clear waters of the beach further add to the glamour of the views. Known to be one of the most romantic beaches in India, this beach is ideal for holidays. You can also check out the famous places to visit in Puri while heading out to this beautiful beach.Shop for handicrafts at the nearby markets, relax on the beach and enjoy the perfect sunrise and sunsets.</string>
+    <string name="radhanagar_beach">Describing itself as being the best beach of Asia, the Radhanagar Beach is a sight to behold. The fine white sands and the light blue waters provide the perfect setting for rejuvenation. Commonly known as Beach No.7, this beach has a tourist footfall from around the world.Take a walk on the pristine sands, relax and rejuvenate in solitude or with your loved ones.</string>
+    <string name="varkala_beach">Sunbathing and swimming with the siding of impeccable views, is what the Varkala Beach of Kerala promises. Also known to have medicinal and curative properties, the waters at this beach are pristine and the views picturesque.Relax at the beach, visit the nearby Hindu Temple, and Take a dip in the curative waters at the beach.</string>
+
+    <!-- Strings for Addresses of different locations-->
+
+    <string name="taj_mahal_address">Agra, Uttar Pradesh-282001</string>
+    <string name="red_fort_address">Chandni Chowk ,New-Delhi-110006</string>
+    <string name="ellora_caves_address">Ellora, Maharashtra-431102</string>
+    <string name="golden_temple_address">Amritsar, Punjab-143006</string>
+    <string name="delhi_address">New Delhi,Delhi</string>
+    <string name="mumbai_address">Mumbai, Maharashtra</string>
+    <string name="hyderabad_address">Hyderabad, Telangana</string>
+    <string name="udupi_address">Udupi, Karnataka</string>
+    <string name="candolim_address">Candolim, Goa-403515</string>
+    <string name="puri_address">Puri, Odisha-752001</string>
+    <string name="radhanagar_address">Havelock, Andaman and Nicobar Islands</string>
+    <string name="varkala_address">Varkala, Kerala-695141</string>
+    <string name="gir_address">Gir, Gujarat-362135</string>
+    <string name="kaziranga_address">Kanchanjuri,Assam-784177</string>
+    <string name="sunderban_address">Kolkata, West Bengal-743370</string>
+    <string name="ranthambore_address">Sawai Madhopur, Rajasthan-322001</string>
+
+    <!-- Strings for Timings of different locations-->
+
+    <string name="taj_mahal_timing">6 AM - 7 PM</string>
+    <string name="red_fort_timing">9:30 AM - 4:30 PM (Closed on Mondays)</string>
+    <string name="ellora_caves_timing">9 AM - 5:30PM (Closed on Tuesdays)</string>
+    <string name="golden_temple_timing">4 AM - 11:00 PM</string>
+    <string name="delhi_timing">-</string>
+    <string name="mumbai_timing">-</string>
+    <string name="hyderabad_timing">-</string>
+    <string name="udupi_timing">-</string>
+    <string name="candolim_timing">Open All 24 Hours</string>
+    <string name="puri_timing">Open All 24 Hours</string>
+    <string name="radhanagar_timing">6:00 AM - 5 PM</string>
+    <string name="varkala_timing">Open All 24 Hours</string>
+    <string name="gir_timing">6 AM - 5 PM</string>
+    <string name="kaziranga_timing">Open All 24 Hours</string>
+    <string name="sunderban_timing">8:30 AM - 5:00 PM</string>
+    <string name="ranthambore_timing">6:30 AM - 10:00 AM and 2:30 PM - 6:00 PM</string>
+
+    <!-- Strings for Contact Information of different locations-->
+
+    <string name="taj_mahal_call">0562 222 7261</string>
+    <string name="red_fort_call">011 2327 7705</string>
+    <string name="ellora_caves_call">0240 234 3169</string>
+    <string name="golden_temple_call">+91-183-2553957</string>
+    <string name="delhi_call">-</string>
+    <string name="mumbai_call">-</string>
+    <string name="hyderabad_call">-</string>
+    <string name="udupi_call">-</string>
+    <string name="candolim_call">Not Available</string>
+    <string name="puri_call">Not Available</string>
+    <string name="radhanagar_call">Not Available</string>
+    <string name="varkala_call">Not Available</string>
+    <string name="gir_call">02877 285 540</string>
+    <string name="kaziranga_call">+91-9873398995</string>
+    <string name="sunderban_call">1800 212 1655</string>
+    <string name="ranthambore_call">+ 91 120 405261599</string>
+
+
+
+
+</resources>
